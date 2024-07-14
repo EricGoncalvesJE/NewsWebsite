@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "prisma.prisma",
+    "qwtel.sqlite-viewer",
+    "yoavbls.pretty-ts-errors",
+    "tomoki1207.pdf",
+    "oderwat.indent-rainbow",
+    "formulahendry.auto-rename-tag",
+    "github.vscode-github-actions",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "PKief.material-icon-theme",
+    "Gruntfuggly.todo-tree"
+  ]
+}
